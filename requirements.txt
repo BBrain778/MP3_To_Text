@@ -1,0 +1,6 @@
+streamlit>=1.36
+faster-whisper>=1.0
+ffmpeg-python>=0.2
+
+# Python 3.13 需要補的標準庫替代（3.11/3.12 裝了也無害）
+audioop-lts>=0.2
