@@ -31,7 +31,7 @@ pip install audioop-lts
 
 ### 4)執行
 ```sh
-streamlit run st_app.py
+streamlit run app.py
 ```
 瀏覽器會自動開啟頁面（通常是 http://localhost:8501）。
 上傳音檔 → 設定語言（或用 auto）→ 轉寫 → 下載 TXT/SRT。
